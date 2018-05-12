@@ -1,0 +1,38 @@
+_repo: The-Complete-Opera-BookAirs-and-Motives-in-Musical-Notation_40540
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40540-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kobbé, Gustav
+    alias: Kobbe, Gustav
+    birthdate: 1857
+    deathdate: 1918
+    gutenberg_agent_id: '7832'
+    url: http://www.gutenberg.org/2009/agents/7832
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Kobbe
+description: "The Complete Opera Book is a guide to operas by American music critic\
+  \ and author Gustav Kobbé first published (posthumously) in the United States in\
+  \ 1919 and the United Kingdom in 1922. A revised edition from 1954 by the Earl of\
+  \ Harewood is known as Kobbé's Complete Opera Book. The 1997 revision, edited by\
+  \ Harewood and Antony Peattie, is titled The New Kobbé's Opera Book.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2012-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40540'
+  wikidata: Q3520368
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Operas -- Stories, plots, etc.'
+title: "The Complete Opera Book\r\nThe Stories of the Operas, together with 400 of\
+  \ the Leading Airs and Motives in Musical Notation"
+url: http://www.gutenberg.org/ebooks/40540
+wikipedia:
+- https://fr.wikipedia.org/wiki/The_Complete_Opera_Book
+- https://en.wikipedia.org/wiki/The_Complete_Opera_Book
